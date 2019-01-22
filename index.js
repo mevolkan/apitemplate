@@ -31,6 +31,6 @@ app.use('/api', apiRoutes)
 
 // Launch app to listen to specified port
 app.listen(port, function () {
-    console.log("Running Mashakura on port " + port);
+    console.log("Running api template on port " + port);
 });
 //https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
