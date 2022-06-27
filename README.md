@@ -13,9 +13,11 @@ npm install
 
 # run
 
-npm start
+node index 
 
-done
+or with nodemon
+
+npx nodemon index.js
 
 Modify as desired
 
