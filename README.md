@@ -1,19 +1,18 @@
 # apitemplate
+
 REST api template using express and mongodb on NodeJS
 
+git clone <https://github.com/254v0lkan/apitemplate.git>
 
+## install
 
-git clone https://github.com/254v0lkan/apitemplate.git
-
-
-# install
 cd  apitemplate
 
 npm install
 
-# run
+## run
 
-node index 
+node index
 
 or with nodemon
 
@@ -21,7 +20,7 @@ npx nodemon index.js
 
 Modify as desired
 
+## to do
 
-#to do
 Add authentication to endpoint
 Add verification to endpoint
